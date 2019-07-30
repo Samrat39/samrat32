@@ -1,4 +1,3 @@
 ls -l
 cd /
 mount
-umount
